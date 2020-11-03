@@ -1,7 +1,7 @@
 <img src="Stock_Market01.png">
 
 # Technical Analysis Indicators
-Description: Technical Analysis (TA) is is a mthod to analyze securities prices and predict or forecast the price based on the TA.
+### Description: Technical Analysis (TA) is a method to analyze securities prices and predict or forecast the price based on TA indicators. TA is used in investments and identify trading opportunities in price trends and patterns seen on charts.     
 
 # List of Technial Analysis Indicators  
 
@@ -95,6 +95,10 @@ Price Channels
 Price Relative  
 Qstick  
 Rate-of-Change (ROC)  
+Rate-of-Change (ROC) 2  
+Rate of Change (ROC100)  
+Rate of Change Percentage (ROCP)  
+Rate of Change Rate (ROCR)  
 Return on Investment (ROI)  
 Relative Strength Index (RSI)  
 Relative Strength Index 2 (RSI2)  
